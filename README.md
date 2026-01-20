@@ -1,3 +1,4 @@
-# Git workshop
+# Guacamole recipe
 
-This repository is a template for the NWO-I Advanced Git workshop.
+This repository contains a recipe for guacamole.
+
